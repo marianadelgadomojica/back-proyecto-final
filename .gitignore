@@ -1,0 +1,7 @@
+node_modules/
+.env
+querys.txt
+.env.yml
+src/config/config.json
+dist/
+environmentsVars/.local.env
